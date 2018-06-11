@@ -1,0 +1,33 @@
+@import url("~/platform.css");
+
+Page {
+  background-color: white;
+  font-size: 15;
+}
+TextField {
+  padding: 10;
+  font-size: 13;
+  color:black;
+}
+
+StackLayout{
+  margin-top:30px;
+  padding-top:12px;
+  height: 50%;
+  
+}
+
+.small-spacing{
+  margin-top:55;
+  padding:45;
+}
+
+.medium-spacing{
+  padding:6;
+  
+}
+
+ActionBar {
+  background-color: black;
+  color: white;
+}
