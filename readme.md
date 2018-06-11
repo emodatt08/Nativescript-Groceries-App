@@ -5,9 +5,9 @@ Groceries is a NativeScript Angular 2 iOS and Android app for managing grocery l
 
 <h2 id="screenshots">Screenshots</h2>
 
-![](assets/screenshots/ios-a.png)
-![](assets/screenshots/ios-b.png)
-![](assets/screenshots/ios-c.png)
+![](assets/screenshots/ios_a.png)
+![](assets/screenshots/ios_b.png)
+![](assets/screenshots/ios_c.png)
 
 
 <h2 id="development">Development</h2>
@@ -31,7 +31,6 @@ And the same command to run Groceries on Android:
 $ tns run android
 ```
 
-<h3 id="linting">Linting</h3>
 
 
 <h3 id="unit-testing">Unit Testing</h3>
